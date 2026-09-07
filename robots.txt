@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ananiasximenes23-ctrl.github.io/Suco-Bucoli/sitemap.xml
